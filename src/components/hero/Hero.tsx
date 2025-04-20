@@ -1,5 +1,5 @@
 import Navbar from "./navbar/Navbar"
-
+import LadyPink from "../../assets/images/hero/lady_pink.png"
 const Hero = () => {
     return (
         <>
@@ -23,7 +23,7 @@ const Hero = () => {
                             </div>
 
                             <div className="w-[50%] flex justify-center">
-                                <img src="/src/assets/images/hero/lady_pink.png" alt="Lady Pink" className="w-[50%]" />
+                                <img src={LadyPink} alt="Lady Pink" className="w-[50%]" />
 
                             </div>
                         </div>
