@@ -1,5 +1,11 @@
 import Navbar from "./navbar/Navbar"
 import LadyPink from "../../assets/images/hero/lady_pink.png"
+import HM from "../../assets/images/hero/marcas/h&m.png"
+import Obey from "../../assets/images/hero/marcas/obey.png"
+import Shopify from "../../assets/images/hero/marcas/shopify.png"
+import Lacoste from "../../assets/images/hero/marcas/lacoste.png"
+import Levis from "../../assets/images/hero/marcas/levis.png"
+import Amazon from "../../assets/images/hero/marcas/amazon.png"
 const Hero = () => {
     return (
         <>
@@ -30,12 +36,12 @@ const Hero = () => {
                     </div>
 
                     <div className="bg-[#EBD96B] flex flex-row justify-around">
-                        <img src="/src/assets/images/hero/marcas/h&m.png" alt="Logo H&M" />
-                        <img src="/src/assets/images/hero/marcas/obey.png" alt="Logo Obey" />
-                        <img src="/src/assets/images/hero/marcas/shopify.png" alt="Logo Shopify" />
-                        <img src="/src/assets/images/hero/marcas/lacoste.png" alt="Logo Lacoste" />
-                        <img src="/src/assets/images/hero/marcas/levis.png" alt="Logo Levis" />
-                        <img src="/src/assets/images/hero/marcas/amazon.png" alt="Logo Amazon" />
+                        <img src={HM} alt="Logo H&M" />
+                        <img src={Obey} alt="Logo Obey" />
+                        <img src={Shopify} alt="Logo Shopify" />
+                        <img src={Lacoste} alt="Logo Lacoste" />
+                        <img src={Levis} alt="Logo Levis" />
+                        <img src={Amazon} alt="Logo Amazon" />
                     </div>
                 </div>
             </div>
