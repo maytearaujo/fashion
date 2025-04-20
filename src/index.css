@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=PoppinsRegular&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=PoppinsBold:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=PoppinsBlack:wght@900&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-poppins-black: "Poppins", sans-serif; 
+  --font-poppins-bold: "PoppinsBold", sans-serif; 
+  --font-poppins-regular: "PoppinsRegular", sans-serif;
+
+  --color-amarelo: "#E6C744";
+  --color-branco: #FFFFFF;
+  --color-preto: #000000;
+  --color-azul-claro: #C2C8DA;
+}
