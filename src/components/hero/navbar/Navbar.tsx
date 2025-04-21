@@ -8,10 +8,10 @@ const Navbar = () => {
             </div>
 
             <div className="flex flex-row justify-between w-[40%]">
-                <p>CATALOGUE</p>
-                <p>FASHION</p>
-                <p>FAVOURITE</p>
-                <p>LIFESTYLE</p>
+                <a href="#">CATALOGUE</a>
+                <a href="#">FASHION</a>
+                <a href="#">FAVOURITE</a>
+                <a href="#">LIFESTYLE</a>
             </div>
         </nav>
     )
