@@ -1,3 +1,4 @@
+import Fovourite from "./components/fovourite/Fovourite"
 import Hero from "./components/hero/Hero"
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <>
       <Hero />
+      <Fovourite />
     </>
   )
 }

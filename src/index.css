@@ -13,7 +13,7 @@ body {
   --color-preto: #000000;
   --color-azulClaro: #C2C8DA;
   --color-amareloBack: #FBECA3;
-
+  --color-letrasAmarelo: #FDD200;
   --backgroundImage-topo:{
     'heroBgImg': "url(../../assets/images/hero/background_top.png)",
   },
