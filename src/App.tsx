@@ -1,12 +1,11 @@
-import Fovourite from "./components/fovourite/Fovourite"
-import Hero from "./components/hero/Hero"
+
+import Home from "./home/Home"
 
 function App() {
 
   return (
     <>
-      <Hero />
-      <Fovourite />
+<Home />
     </>
   )
 }
