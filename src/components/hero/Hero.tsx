@@ -1,6 +1,6 @@
 import Navbar from "./navbar/Navbar"
 import LadyPink from "../../assets/images/hero/lady_pink.png"
-import Brands from "../brands/brands"
+import Brands from "../brands/Brands"
 
 
 const Hero = () => {
