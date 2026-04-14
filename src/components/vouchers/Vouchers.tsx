@@ -1,6 +1,6 @@
 import GooglePlay from "../../assets/images/favourite/google_play.png"
 import ApleStore from "../../assets/images/favourite/apple_store.png"
-import Aplicativos from "../../assets/images/favourite/mobile_app/Apps.png"
+import Aplicativos from "../../assets/images/favourite/mobile_app/apps.png"
 import Usuario from "../../assets/images/favourite/mobile_app/usuario.png"
 import MulherVermelho from "../../assets/images/favourite/mobile_app/mulher_vestido_vermelho.png"
 import MulherVestidoRosa from "../../assets/images/favourite/mobile_app/mulher_vestido_rosa.png"
