@@ -1,6 +1,6 @@
-import Mulher from "../../assets/images/fovourite/mulher_blusa_branca.png"
-import Mulheres from "../../assets/images/fovourite/mulheres_blusa_branca.png"
-import Seta from "../../assets/images/fovourite/arrow.png"
+import Mulher from "../../assets/images/favourite/mulher_blusa_branca.png"
+import Mulheres from "../../assets/images/favourite/mulheres_blusa_branca.png"
+import Seta from "../../assets/images/favourite/arrow.png"
 
 const YoungsFavourite = () => {
     return (
